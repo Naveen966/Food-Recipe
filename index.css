@@ -34,7 +34,7 @@ body::-webkit-scrollbar {
   height: 100vh;
   flex-direction: column;
   align-items: center;
-  background: url(ingredientsBG.jpg);
+  background: url("ingredientsBG.jpg");
   background-size: cover;
 }
 
