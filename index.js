@@ -67,7 +67,7 @@ function importantData(important) {
 const cutButton = document.getElementById("cut");
 const pageCover = document.querySelector(".pageCover");
 const page = document.querySelector(".page");
-const sound = new Audio("/pageSlide.mp3");
+const sound = new Audio("pageSlide.mp3");
 // cut
 cutButton.onclick = () => {
   //information remover functions
